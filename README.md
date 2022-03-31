@@ -2,4 +2,4 @@
 
 Version: v1 Final
 
-Desc: This is a version of ESX which utilizes mf-inventory (if you aren't using mf-inventory, dont both downloading this)
+Desc: This is a version of ESX which utilizes mf-multichar (if you aren't using mf-multichar, dont both downloading this)
